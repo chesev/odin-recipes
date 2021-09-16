@@ -1,0 +1,17 @@
+/* index */
+
+img {
+    width: 1000px;
+    height: 650px;
+}
+
+body {
+    background-color: rgb(252, 230, 233);
+}
+
+/* lasagna */
+
+.lasagna {
+    width: 650px;
+    height: auto;
+}
